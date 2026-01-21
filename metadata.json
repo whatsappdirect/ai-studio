@@ -1,0 +1,7 @@
+{
+  "name": "Field Hydrant Surveyor",
+  "description": "Professional mobile-first field application for capturing fire hydrant locations, sending WhatsApp notifications, and generating PDF summaries.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
